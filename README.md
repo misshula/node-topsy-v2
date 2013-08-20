@@ -15,6 +15,6 @@ Originally cloned from https://github.com/istrategylabs/node-topsy
     }
 
     topsy.getInfluencers(obj, function(error, result){
-	console.log(result)
+    	console.log(result)
     });
 
